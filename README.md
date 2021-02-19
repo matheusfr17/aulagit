@@ -1,8 +1,10 @@
-# *Livro de Receitas*
+Livro de Receitas :man_cook:
 
-_1_ Strogonoff
+1 Strogonoff :chicken:
 
-_2_ Doce de Leite
+2 Doce de Leite :cow2:
+
+3 Bolo de Cenoura :carrot:
 
 
 
