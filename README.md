@@ -1,12 +1,8 @@
-# **Receitas** 
+# *Livro de Receitas*
 
+_1_ Strogonoff
 
-
-## Strogonoff
-
-### Doce de Leite
-
-
+_2_ Doce de Leite
 
 
 
